@@ -83,10 +83,10 @@ font-family: 'Poppins', sans-serif;
 }
 
 .theme-gradient {
-    background: rgb(248,31,1);
-    background: -moz-linear-gradient(145deg,  rgba(248,31,1,1) 0%, rgba(238,7,110,1) 100%);
-    background: -webkit-linear-gradient(145deg,  rgba(248,31,1,1) 0%,rgba(238,7,110,1) 100%);
-    background: linear-gradient(145deg,  rgba(248,31,1,1) 0%,rgba(238,7,110,1) 100%);
+    background: rgb(114, 233, 139);
+    background: -moz-linear-gradient(145deg,  rgba(42, 157, 143,1) 0%, rgba(1, 248, 166,1) 100%);
+    background: -webkit-linear-gradient(145deg,  rgba(42, 157, 143,1) 0%,rgba(1, 248, 166,1) 100%);
+    background: linear-gradient(145deg,  rgba(42, 157, 143,1) 0%,rgba(1, 248, 166,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f81f01', endColorstr='#ee076e',GradientType=1 );
 }
 
@@ -138,7 +138,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 
-@for $i from 1 through 35 {
+@for $i from 1 through 45 {
     .bg_image--#{$i} {
         background-image: url(/assets/images/bg/bg-image-#{$i}.jpg) !important;
     }

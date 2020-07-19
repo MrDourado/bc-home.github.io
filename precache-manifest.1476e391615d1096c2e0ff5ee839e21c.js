@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bcdd37aa3505dea38cd2bcf79f75f49",
+    "revision": "b3e5f4c0e1d1faaf7daa18291084445f",
     "url": "/bc-home.github.io/index.html"
   },
   {
-    "revision": "4a70d407d46e3c9acd40",
+    "revision": "d907e397920d02e6302f",
     "url": "/bc-home.github.io/static/css/2.4c00aa32.chunk.css"
   },
   {
-    "revision": "53839bedcf6e002ce067",
-    "url": "/bc-home.github.io/static/css/main.a3402591.chunk.css"
+    "revision": "3b8d1f618834aca21fd6",
+    "url": "/bc-home.github.io/static/css/main.d520c051.chunk.css"
   },
   {
-    "revision": "4a70d407d46e3c9acd40",
-    "url": "/bc-home.github.io/static/js/2.42f7bf36.chunk.js"
+    "revision": "d907e397920d02e6302f",
+    "url": "/bc-home.github.io/static/js/2.f97b0621.chunk.js"
   },
   {
-    "revision": "53839bedcf6e002ce067",
-    "url": "/bc-home.github.io/static/js/main.513fad56.chunk.js"
+    "revision": "3b8d1f618834aca21fd6",
+    "url": "/bc-home.github.io/static/js/main.75f4bd8e.chunk.js"
   },
   {
     "revision": "661c56f26ba0e0efedf9",
