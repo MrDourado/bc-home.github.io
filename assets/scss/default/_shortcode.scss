@@ -137,6 +137,10 @@ font-family: 'Poppins', sans-serif;
     @extend %bgImagePosition;
 }
 
+.bg_image_full {
+    height: 100vh;
+}
+
 
 @for $i from 1 through 45 {
     .bg_image--#{$i} {
